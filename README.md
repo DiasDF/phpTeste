@@ -1,10 +1,10 @@
 # phpTeste
 Teste de Sincronia Local x GitHub
 
-1 Alteração.
+1 
 
-2 Alteração. 17h19
+2 
 
-3 Alteração. 18h06
+3 
 
-4 Alteração Local. 18h08
+4 
